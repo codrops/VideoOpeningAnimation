@@ -4,7 +4,7 @@ A tutorial on how to re-create the fullscreen video opening effect seen on [mome
 
 [Article on Codrops](http://tympanus.net/codrops/?p=24567)
 
-[Demo](http://tympanus.net/Tutorials/VideoPlayerOpeningAnimation/)
+[Demo](http://tympanus.net/Tutorials/VideoOpeningAnimation/)
 
 ## License
 
